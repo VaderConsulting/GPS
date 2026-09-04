@@ -21,6 +21,10 @@ VB.NET 2005 WinForms sample (`High-Precision GPS Application (VB.NET).sln`, asse
 
 Open `High-Precision GPS Application (VB.NET).sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2005
+
 ## Attribution and provenance
 
 - No third-party source-code attribution markers were identified in assembly/package metadata.
